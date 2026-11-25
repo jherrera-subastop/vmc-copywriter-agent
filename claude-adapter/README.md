@@ -3,13 +3,13 @@
 Tras publicar este repositorio privado en GitHub, instala el agente en Claude Code con:
 
 ```bash
-npx github:apuherrerafo/vmc-copywriter-agent#claude-adapter skill
+npx github:jherrera-subastop/vmc-copywriter-agent skill claude
 ```
 
 Para actualizar una versión ya instalada:
 
 ```bash
-npx github:apuherrerafo/vmc-copywriter-agent#claude-adapter skill --force
+npx github:jherrera-subastop/vmc-copywriter-agent skill claude --force
 ```
 
 El instalador copia el core versionado a `~/.claude/skills/vmc-copywriter/`.

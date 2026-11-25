@@ -11,7 +11,7 @@ node .\index.mjs skill
 Una vez publicado en GitHub, la instalación será:
 
 ```bash
-npx github:apuherrerafo/vmc-copywriter-agent#codex-adapter skill
+npx github:jherrera-subastop/vmc-copywriter-agent skill codex
 ```
 
 Para actualizar una instalación existente, añade `--force`.

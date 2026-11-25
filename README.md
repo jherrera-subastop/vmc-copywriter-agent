@@ -7,8 +7,8 @@ El snapshot permite aplicar el workflow, knowledge y guardrails en hosts sin acc
 El repositorio incluye un instalador único para Claude Code y Codex:
 
 ```bash
-npx github:apuherrerafo/vmc-copywriter-agent skill claude
-npx github:apuherrerafo/vmc-copywriter-agent skill codex
+npx github:jherrera-subastop/vmc-copywriter-agent skill claude
+npx github:jherrera-subastop/vmc-copywriter-agent skill codex
 ```
 
 Ambos aceptan `--force` para actualizar una instalación existente.
