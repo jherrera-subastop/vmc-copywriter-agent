@@ -32,6 +32,7 @@
 - `sin riesgo`.
 - `garantizado` y equivalentes absolutos.
 - `vehículo certificado`.
+- `recibe propuestas en Mi Garaje` y variantes que presenten Mi Garaje como parte del claim comercial. En copy comercial usar únicamente `recibe propuestas`; el nombre de la superficie puede aparecer solo en UX, ayuda o una instrucción operativa explícitamente solicitada.
 
 ## Pendiente de aprobación editorial
 

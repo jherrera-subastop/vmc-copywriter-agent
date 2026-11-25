@@ -12,3 +12,9 @@ npx github:jherrera-subastop/vmc-copywriter-agent skill codex
 ```
 
 Ambos aceptan `--force` para actualizar una instalación existente.
+
+## Ciclo de actualización
+
+El runtime instalado es un snapshot versionado. El feedback editorial no se replica automáticamente entre computadoras: primero se integra y valida en el core de VMC, luego se publica una nueva versión y cada usuario actualiza con `--force`.
+
+Antes de publicar, ejecutar `scripts/sync-runtime.ps1` desde el repositorio de distribución para sincronizar y validar los cuatro runtimes empaquetados.

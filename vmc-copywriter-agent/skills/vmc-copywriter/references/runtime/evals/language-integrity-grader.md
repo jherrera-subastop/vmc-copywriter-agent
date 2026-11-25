@@ -15,6 +15,7 @@ A toda línea visible de copy comercial. Para una apertura, evalúa H1, línea d
 3. **Lectura oral:** leído en voz alta, suena a español peruano cotidiano y a una persona; no a traducción, sintaxis inflada o metáfora ensamblada.
 4. **Continuidad local:** cada línea responde a la anterior. El subtítulo desarrolla el pensamiento del H1; el CTA completa la decisión del bloque, no reinicia con una orden genérica.
 5. **Economía:** ninguna palabra está solo para sonar intensa. Si se quita una expresión y el sentido mejora, reescribir.
+6. **Registro de sector:** cuando el brief define un sector o audiencia comercial concreta, el lenguaje debe nombrar su situación real. En automotriz para revendedores, `comprar para revender`, `vender el carro actual`, `rotar inventario` o equivalentes claros son preferibles a abstracciones como `tu siguiente movimiento` si estas no explican qué negocio o decisión cambia.
 
 ## Salida interna
 

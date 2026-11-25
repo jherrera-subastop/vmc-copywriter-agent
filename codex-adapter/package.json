@@ -1,6 +1,6 @@
 {
   "name": "@vmc/copywriter-agent-codex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "Instalador de VMC Copywriter Agent para Codex.",
   "type": "module",

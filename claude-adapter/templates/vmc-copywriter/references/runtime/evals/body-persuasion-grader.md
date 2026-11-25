@@ -21,6 +21,7 @@ Leer el mapa de `knowledge/principles/feature-to-feeling.md`, la estrategia de l
 9. **Límite factual:** emoción y CTA mantienen explícitos o implícitos los límites del mecanismo; no se convierten en dinero, venta, demanda, seguridad, plazo o resultado garantizado.
 10. **Mecánica con propósito:** cuando explica formulario, fotos, categorías, expectativa o pasos, lo hace como respuesta a una decisión humana ya abierta; una explicación plana de capacidad recibe `REWRITE`.
 11. **Cadena de presión:** antes de cada mecanismo importante, el cuerpo nombra una decisión presente y un costo/premio personal concreto. Una sucesión de `puede`, `ayuda`, `opción`, `valor`, `posibilidad` o equivalentes sin una consecuencia propia recibe `REWRITE`.
+12. **Desarrollo proporcional:** cuando el email fuente conserva un bloque de cuerpo/introducción y el brief necesita reconocimiento de audiencia, ese bloque desarrolla situación → tensión/decisión → mecanismo → control. Una frase breve y genérica que podría enviarse a cualquier segmento recibe `REWRITE`; la solución es profundizar dentro del bloque existente, nunca inventar secciones.
 
 ## Ajuste por canal
 

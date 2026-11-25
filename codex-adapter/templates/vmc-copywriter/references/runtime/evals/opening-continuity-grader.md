@@ -16,6 +16,7 @@ Siempre que la pieza tenga una apertura comercial y una línea de resolución: H
 4. **Reconocimiento completo:** juntas, ambas líneas permiten entender la oportunidad/producto y por qué importa, de forma directa o inferible.
 5. **Intensidad sostenida:** la segunda línea conserva ritmo, deseo, alerta, alivio o control; no podría moverse a un centro de ayuda sin perder efecto.
 6. **Límite factual:** el puente no inventa demanda, comprador, venta, dinero, plazo, seguridad ni resultado.
+7. **Personalización con trabajo:** si la fuente tiene saludo personalizado, el primer párrafo posterior lo convierte en reconocimiento de audiencia y enlaza con la apertura; no puede quedar como una frase intercambiable o una explicación fría.
 
 ## Resultado
 

@@ -1,6 +1,6 @@
 {
   "name": "@vmc/copywriter-agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "Instalador portable del agente VMC Copywriter para Claude Code y Codex.",
   "type": "module",

@@ -39,6 +39,7 @@ Este grader se ejecuta sobre el copy propuesto antes de aprobarlo.
 - Los activos pueden tener condiciones y responsabilidades definidas por el vendedor y por la oferta específica.
 - Ganar una oferta En Vivo, llegar a un acuerdo Negociable o usar Gana Ya no equivale por sí solo a transferencia, entrega o propiedad del activo.
 - El precio base, las condiciones, fees e impuestos dependen de la oferta específica cuando corresponda.
+- En copy comercial, `recibe propuestas` comunica la capacidad. `recibe propuestas en Mi Garaje` y variantes se tratan como error de terminología editorial; solo pueden usarse si el encargo pide explícitamente una instrucción operativa o UX.
 
 ## Decisión
 

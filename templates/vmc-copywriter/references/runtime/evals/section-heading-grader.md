@@ -18,6 +18,8 @@ En landings, emails y piezas largas con títulos comerciales intermedios. No apl
 6. **Densidad comercial:** no se limita a anunciar la categoría, feature o beneficio (`Más que autos`, `VMC ahora también...`, `Fácil de publicar`, `Una buena venta empieza...`). Debe cambiar cómo la persona mira una decisión, un objeto o una consecuencia concreta.
 7. **Ritmo visual:** en una landing, el H2 contiene una idea y, por defecto, hasta 9 palabras. Si necesita explicación, el cuerpo la recibe; el H2 no debe convertirse en un párrafo visual.
 8. **Payoff comercial:** un título compacto tampoco puede limitarse a nombrar una transición de proceso (`De guardarlo a publicarlo`) ni una cualidad deseable sin consecuencia (`Haz que su valor se vea`). Debe conservar una ganancia, alerta, deseo o decisión humana propia del bloque.
+9. **Cierre que vende:** cuando el título antecede al CTA final, no puede resumir una secuencia obvia (`vende X, sigue buscando Y`) ni cerrar como consejo. Debe reabrir una ganancia, costo de oportunidad o decisión concreta que haga natural publicar ahora, sin prometer el resultado.
+10. **Remate de campaña:** si el cierre debe funcionar como slogan, condensar la tesis en una frase breve, rítmica y recordable —una inversión, contraste o paralelismo— que pueda sostenerse aislada. Un imperativo explicado, una oración larga o una secuencia de pasos falla aunque sea correcta.
 
 ## Resultado
 
