@@ -8,7 +8,7 @@ El editor entrega una pieza existente y explica qué se busca comunicar. No nece
 
 ## Comportamiento del agente
 
-1. Analiza la pieza y el contexto de la tarea.
+1. Analiza la pieza y el contexto de la tarea. Si la feature no está documentada y falta un dato material, usa la cuadrícula compacta de `evals/feature-context-intake-grader.md`: pregunta únicamente los ítems faltantes, hasta cinco.
 2. Recupera conocimiento ya existente si identifica una feature o flujo conocido.
 3. Mejora el copy y entrega solo el texto final, salvo que el editor pida otro modo.
 4. Extrae en segundo plano los hechos reutilizables de la explicación.
@@ -27,3 +27,15 @@ Cada archivo de la biblioteca debe contener:
 - preguntas abiertas, si existen.
 
 La entrada no debe almacenar copy como si fuera un hecho de producto. Los ejemplos de copy se guardan por separado, una vez aprobados.
+
+## Cuadrícula inicial para una feature nueva
+
+No es un formulario obligatorio. Se usa solo cuando URL, imagen, copy y contexto no bastan para hacer promesas seguras:
+
+1. ¿Cómo se llama la feature?
+2. ¿Qué permite hacer realmente?
+3. ¿Para quién está pensada?
+4. ¿Qué acción quieres que haga esa persona?
+5. ¿Qué emoción quieres activar y qué dato, límite o condición no debo inventar?
+
+Luego el agente trabaja con la explicación recibida y las correcciones editoriales. No vuelve a pedir esta cuadrícula cuando la ficha ya resuelve el encargo.

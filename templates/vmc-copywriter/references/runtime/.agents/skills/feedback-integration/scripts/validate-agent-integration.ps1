@@ -30,6 +30,7 @@ $requiredPaths = @(
   'evals\strategy-sheet.md',
   'evals\human-reaction-judge.md',
   'evals\factual-grader.md',
+  'evals\feature-context-intake-grader.md',
   'evals\source-structure-grader.md',
   'evals\headline-grader.md',
   'evals\message-hierarchy-grader.md',
@@ -64,6 +65,7 @@ $bodyPersuasion = Get-Content -Raw -LiteralPath (Join-Path $Root 'evals\body-per
 $requiredWorkflowReferences = @(
   'feedback-integration',
   'hard-gates.md',
+  'feature-context-intake-grader.md',
   'commercial-coherence-grader.md',
   'decision-readiness-grader.md'
 )
@@ -96,7 +98,7 @@ if ($bodyPersuasion -notmatch [regex]::Escape('Cadena de presión')) {
 }
 
 $gateCriteria = @{
-  'evals\hard-gates.md' = @('factual-grader.md', 'source-structure-grader.md', 'feedback-integration')
+  'evals\hard-gates.md' = @('factual-grader.md', 'feature-context-intake-grader.md', 'source-structure-grader.md', 'feedback-integration')
   'evals\commercial-coherence-grader.md' = @('headline-grader.md', 'message-hierarchy-grader.md', 'body-persuasion-grader.md', 'cta-continuity-grader.md', 'language-integrity-grader.md', 'conversion-energy-grader.md', 'candidate-delta-grader.md', 'vendo-mis-cosas-conversion.md')
   'evals\decision-readiness-grader.md' = @('audience-grader.md', 'human-reaction-judge.md', 'situational-panel.md', 'decision-red-team.md', 'panels/vendo-mis-cosas.md')
 }
